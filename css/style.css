@@ -1,0 +1,91 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Set a background image or color for the body */
+body {
+  background-image: url('your-background-image.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #f2f2f2; /* Fallback color */
+  font-family: Arial, sans-serif;
+}
+
+/* Center the search box */
+.search-box {
+  text-align: center;
+  margin-top: 50px;
+}
+
+/* Style the city input */
+.city-name {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+  width: 250px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+/* Style the search button */
+.search-button {
+  cursor: pointer;
+  margin-left: 10px;
+  height:30px;
+  width:33px;
+}
+
+/* Style the container */
+.container {
+  text-align: center;
+  margin-top: 30px;
+}
+
+/* Style the main weather box */
+.main-box {
+  background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+/* Style the weather condition image */
+.weather-condition {
+  width: 100px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+/* Style the weather details */
+.weather-details {
+  margin-top: 20px;
+  color: #333;
+}
+
+/* Style the place name */
+.place {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+/* Style the day-date-time */
+.day-date-time {
+  font-size: 16px;
+  margin-top: 5px;
+}
+
+/* Style the current temperature */
+.current-temp {
+  font-size: 36px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+/* Style the min-max temperature */
+.min-max-temp {
+  font-size: 18px;
+  margin-top: 5px;
+}
