@@ -45,4 +45,5 @@ To use the Weather App, simply open the `index.html` file in your web browser. Y
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+# 🌦️ [Live Weather App Demo](http://weather.bibakbhusal.com.np)
 Enjoy checking the weather with the Weather App! ☀️🌧️❄️
